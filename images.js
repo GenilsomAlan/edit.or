@@ -1,0 +1,26 @@
+const icons = [
+	{src: "./icons/underline.svg" },
+	{src: "./icons/italic.svg" },
+	{src: "./icons/negrito.svg" },
+	{src: "./icons/colar.svg" },
+	{src: "./icons/cut.svg" },
+	{src: "./icons/left.svg" },
+	{src: "./icons/justify.svg" },
+	{src: "./icons/center.svg" },
+	{src: "./icons/right.svg" },
+	{src: "./icons/link.svg" },
+	{src: "./icons/listNO.svg" },
+	{src: "./icons/listO.svg" },
+	{src: "./icons/undo.svg"}
+	//{src: "./icons/underlineColor.svg" },
+	//{src: "./icons/maiuscula.svg" },
+	//{src: "./icons/aspas.svg" },
+	//{src: "./icons/copyright.svg	" },
+	//{src: "./icons/file.svg" },
+	//{src: "./icons/save.svg" },
+	//{src: "./icons/selectAll.svg" },
+	//{src: "./icons/tab.svg" },
+	//{src: "./icons/tableft.svg" },
+	//{src: "./icons/txt.svg" },
+	
+]
